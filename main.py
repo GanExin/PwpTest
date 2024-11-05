@@ -8,10 +8,12 @@ print("Should not have swam so fast smh fr")
 print("Boomshakalaka")
 
 def add(x,y):
-    return x+y
+    sum = x + y
+    return sum
 
 def substract(x,y):
-    return x-y
+    diff = x - y
+    return diff
 
 a = add(1,2)
 print(a)
