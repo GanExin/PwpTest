@@ -1,0 +1,2 @@
+def gay():
+    print("rainbow 🌈")
